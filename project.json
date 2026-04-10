@@ -1,0 +1,24 @@
+{
+  "overview": "Bikaner Sweets is a colorful and festive showcase website for a traditional Indian sweet shop. All content is in Hindi, featuring a hero banner, product gallery with 6 Indian sweets, About section, Special Offers, and a Contact form — all styled with a warm saffron, red, yellow, and gold palette.",
+  "features": [
+    "Hero banner with 'हर खुशी में मिठास' text and smooth animations",
+    "6 product cards (लड्डू, बर्फी, रसगुल्ला, जलेबी, काजू कतली, गुलाब जामुन) with images",
+    "About Us section in Hindi",
+    "Special Offers section with festive styling",
+    "Contact form with Hindi labels and validation",
+    "अभी ऑर्डर करें call-to-action button",
+    "Mobile-friendly responsive layout",
+    "Traditional Indian decorative design elements"
+  ],
+  "category": "showcase",
+  "tags": [
+    "hindi",
+    "indian",
+    "sweet-shop",
+    "festive",
+    "traditional",
+    "showcase",
+    "bikaner"
+  ],
+  "last_updated": "2026-04-10T03:14:07.961Z"
+}
